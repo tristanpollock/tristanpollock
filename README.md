@@ -1,3 +1,8 @@
+### Hi, I’m Tristan 👋  
+- 3x founder (two exits) & Forbes 30U30  
+- Ecosystem builder: $1B+ in value created, 50 accelerators in 30 countries  
+- Playing with AI, Web3, and community tools  
+- Find me on [Replit](https://replit.com/@YourHandle)  
 ## Hi there 👋
 
 <!--
