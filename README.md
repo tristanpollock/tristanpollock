@@ -2,8 +2,7 @@
 - 3x founder (two exits) & Forbes 30U30  
 - Ecosystem builder: $1B+ in value created, 50 accelerators in 30 countries  
 - Playing with AI, Web3, and community tools  
-- Find me on [Replit](https://replit.com/@YourHandle)  
-## Hi there 👋
+- Find me on [Replit]([https://replit.com/@tristanpollock])
 
 <!--
 **tristanpollock/tristanpollock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
